@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\loren\\Desktop\\Tutto\\Scuola\\new\\TPI\\Sensors\\index.html",
+            "file": "c:/Users/77188830/Desktop/Sensors-master/index.html",
             "runtimeArgs": ["--disable-web-security"]
         }
     ]
