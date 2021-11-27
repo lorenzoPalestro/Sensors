@@ -15,7 +15,7 @@ fetch(api_url)
       newCard.classList.add("card");
 
       newCard.innerHTML = `<br>
-      <h2><span style="font-weight: normal;">Description: </span>${sensor.description}</h2>
+      <h2 style="text-align: center;">${sensor.description}</h2>
       <h2><span style="font-weight: normal;">ID: </span>${sensor.id}</h2>
       <h2><span style="font-weight: normal;">Lat: </span>${sensor.lat}</h2>
       <h2><span style="font-weight: normal;">Lng: </span>${sensor.lng}</h2>
